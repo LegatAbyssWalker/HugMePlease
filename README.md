@@ -29,7 +29,7 @@ A player that just wants a hug from his friends, but they don't want it.
 
 # Media
 * Youtube Channel                
-  - » www.YouTube.com/LegitMegaWalls-52
+  - » https://youtube.com/c/LegatAbyssWalker
 * Youtube Video of Creating the Game! 
   - » https://www.youtube.com/watch?v=8Pb7m-RdAPw
 * Github                         
